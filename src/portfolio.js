@@ -56,7 +56,7 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "Information Security",
-      fontAwesomeClassname: "fab fa-shield"
+      fontAwesomeClassname: "fab fa-shield-alt"
     }
   ],
   display: true // Set false to hide this section, defaults to true
