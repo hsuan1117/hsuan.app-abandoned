@@ -127,6 +127,18 @@ export default function socialMedia() {
           <span></span>
         </a>
       ) : null}
+
+      {socialMediaLinks.blog ? (
+        <a
+          href={socialMediaLinks.blog}
+          className="icon-button blog"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fas fa-internet-explorer"></i>
+          <span></span>
+        </a>
+      ) : null}
     </div>
   );
 }

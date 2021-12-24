@@ -27,11 +27,12 @@ const socialMediaLinks = {
   github: "https://github.com/hsuan1117",
   linkedin: "https://www.linkedin.com/in/hsuan1117/",
   gmail: "public@hsuan.app",
-  gitlab: "https://gitlab.com/hsuan1117",
+  //gitlab: "https://gitlab.com/hsuan1117",
   facebook: "https://www.facebook.com/ryanchang1117/",
-  medium: "https://medium.com/@ryanchang1117",
-  stackoverflow: "https://stackoverflow.com/users/9601042/hsuan",
+  //medium: "https://medium.com/@ryanchang1117",
+  //stackoverflow: "https://stackoverflow.com/users/9601042/hsuan",
   instagram: "https://www.instagram.com/slow.hsuan.1117/",
+  blog: "https://blog.hsuan.app",
   display: true // Set true to display this section, defaults to false
 };
 
@@ -56,7 +57,7 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "Information Security",
-      fontAwesomeClassname: "fab fa-shield-alt"
+      fontAwesomeClassname: "fas fa-shield-alt"
     }
   ],
   display: true // Set false to hide this section, defaults to true
